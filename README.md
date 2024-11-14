@@ -1,5 +1,5 @@
 # Responsive Halloween Website 🎃
-
+[Live Preview](https://techtalestelugu.github.io/landing_page_halloween/)
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
 - It has three color designs (green, red and black)
